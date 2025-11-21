@@ -1,0 +1,4 @@
+{/* Declare uma constante chamada "PI", atribua o valor de Pi a ela e imprima o valor na console */}
+
+const PI = Math.PI
+console.log("Valor de Pi:" + PI);
