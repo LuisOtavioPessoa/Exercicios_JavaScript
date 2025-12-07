@@ -3,7 +3,7 @@
 function mediaNotas(nota1, nota2){
 
     if(nota1 < 0 || nota2 < 0){
-        console.log("Erro: Nota não pode ser negativa!");
+        console.log("Nota não pode ser negativa!");
         return; 
     }
 
