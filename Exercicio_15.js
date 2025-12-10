@@ -3,7 +3,7 @@
 function palavraPalindromo(palavra){
 
     const palavraRecebida = palavra.toLowerCase();
-    const palavraInvertida =palavraRecebida .split('').reverse().join('');
+    const palavraInvertida =palavraRecebida.split('').reverse().join('');
 
     if( palavraRecebida  ==  palavraInvertida){
         console.log(`A palavra ${palavraRecebida } é um Palíndromo.`);
