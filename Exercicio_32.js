@@ -1,4 +1,4 @@
-{/*Usando um laço do-while, crie um jogo de "Pedra, papel e tesoura" contra o computador. Descrição: Neste exercício, você vai simular um jogo de "Pedra, papel e tesoura" contra o computador. Para simplificar, vamos supor que a escolha do usuário é sempre "pedra". Código de solução*/}
+{/*Usando um laço do-while, crie um jogo de "Pedra, papel e tesoura" contra o computador. Descrição: Neste exercício, você vai simular um jogo de "Pedra, papel e tesoura" contra o computador. Para simplificar, vamos supor que a escolha do usuário é sempre "pedra".*/}
 
 let escolhaUsuario = "Pedra";
 let opcoes = ["Pedra", "Papel", "Tesoura"];

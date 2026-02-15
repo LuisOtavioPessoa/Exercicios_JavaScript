@@ -2,7 +2,7 @@
 Neste exercício, você precisa criar um programa que inverte uma string. Por exemplo, a string "Hello" invertida se torna "olleH".*/}
 
 let string = "Hello";
-let stringArray = string.split('');
+let stringArray = string.split(''); // [H,e,l,l,o]
 
 let stringArrayInvertida = [];
 let stringInvertida = "";
